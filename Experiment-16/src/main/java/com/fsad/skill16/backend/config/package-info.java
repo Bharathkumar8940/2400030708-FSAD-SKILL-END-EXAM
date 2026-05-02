@@ -1,1 +1,0 @@
-package com.fsad.skill16.backend.config;
